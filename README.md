@@ -23,3 +23,8 @@ TX ----------------- RX
 RX ----------------- TX
 
 ```
+
+Make sure to insert a SIM card with SMS capability into the SIM800L module and power it up. Then, press the button connected to the board to send your GPS location to the given phone number via SMS.
+
+# License
+This project is licensed under the MIT License. Feel free to use it for any purpose.
