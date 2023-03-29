@@ -5,10 +5,10 @@ This project demonstrates how to send your GPS location to a given phone number 
 
 ## Hardware components
 - Arduino board (e.g., Arduino Uno)
--SIM800L module
--GPS module (e.g., NEO-6M)
--Push button
--Jumper wires
--Software libraries
--TinyGPS++
--SoftwareSerial
+- SIM800L module
+- GPS module (e.g., NEO-6M)
+- Push button
+- Jumper wires
+- Software libraries
+- TinyGPS++
+- SoftwareSerial
