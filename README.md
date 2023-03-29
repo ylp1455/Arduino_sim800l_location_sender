@@ -12,3 +12,14 @@ This project demonstrates how to send your GPS location to a given phone number 
 - Software libraries
 - TinyGPS++
 - SoftwareSerial
+## Wiring diagram
+Connect the hardware components as shown in the following diagram:
+
+```lua
+GPS module           Arduino           SIM800L module
+VCC ---------------- 5V
+GND ---------------- GND
+TX ----------------- RX
+RX ----------------- TX
+
+```
